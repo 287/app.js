@@ -1,0 +1,22 @@
+{
+  "name": "power-command",
+  "version": "1.0.9",
+  "description": "common node command",
+  "license": "MIT",
+  "main": "power.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "command",
+    "power",
+    "shell",
+    "bash",
+    "global",
+    "common"
+  ],
+  "author": "mrbrick@yinhe.org",
+  "bin": { "power": "power.js" }, 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
