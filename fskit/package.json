@@ -1,0 +1,24 @@
+{
+  "name": "fskit",
+  "version": "1.0.4",
+  "description": "file system by async and sync",
+  "license": "MIT",
+  "main": "fskit.js",
+  "dependencies": {
+	"gaze": "*",
+	"globkit": "*",
+	"asyncb": "*",
+	"iconv-lite": "*"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "file",
+    "fs",
+    "async"
+  ],
+  "author": "mrbrick@yinhe.org",
+  "bin": {}, 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
