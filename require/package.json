@@ -1,0 +1,21 @@
+{
+  "name": "module-require-loader",
+  "version": "1.0.2",
+  "description": "module require loader with no cache",
+  "license": "MIT",
+  "main": "require.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "loader",
+    "module",
+    "require",
+    "no-cache",
+    "function",
+    "node"
+  ],
+  "author": "mrbrick@yinhe.org",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
