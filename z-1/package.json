@@ -1,0 +1,25 @@
+{
+  "name": "z-1",
+  "version": "1.0.0",
+  "description": "node web server",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+	"module-require-loader": "latest",
+	"fskit": "latest",
+	"asyncb": "latest"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "node",
+    "web",
+    "server",
+    "http",
+    "proxy",
+    "jsx"
+  ],
+  "author": "mrbrick@yinhe.org",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
