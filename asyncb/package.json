@@ -1,0 +1,19 @@
+{
+	"name": "asyncb"
+	, "version": "1.0.1"
+	, "description": "asycn callback manage"
+	, "license": "MIT"
+	, "main": "asyncb.js"
+	, "dependencies": {}
+	, "devDependencies": {}
+	, "keywords": [
+		"async"
+		, "task"
+		, "flow"
+		, "pipe"
+		, "each"
+	]
+	, "author": {
+		"name": "mrbrick@yinhe.org"
+	}
+}
