@@ -1,3 +1,4 @@
+'use strict';
 const formidable = require('formidable');
 const querystring = require('querystring');
 

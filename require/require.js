@@ -5,7 +5,7 @@
 	})
 	loader.get('dasdasdasd')
 */
-
+'use strict';
 class Require{
 	constructor(op){
 		this.root = '';
