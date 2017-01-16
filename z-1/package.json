@@ -1,6 +1,6 @@
 {
   "name": "z-1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "node web server",
   "license": "MIT",
   "main": "index.js",
@@ -8,8 +8,8 @@
 	"module-require-loader": "latest",
 	"fskit": "latest",
 	"asyncb": "latest",
-	"formidable": "formidable",
-	"querystring": "querystring"
+	"formidable": "latest",
+	"querystring": "latest"
   },
   "devDependencies": {},
   "keywords": [
